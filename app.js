@@ -27,6 +27,8 @@ const mango = new Fruit({
 //mango.save();
 //fruit.save();
 
+
+// Person Schema
 const personSchema = new mongoose.Schema ({
   name : String,
   age : Number,
